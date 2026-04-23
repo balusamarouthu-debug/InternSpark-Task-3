@@ -17,3 +17,6 @@ This project demonstrates how to load, explore, and analyze a dataset using the 
 ## 📦 Installation
 ```bash
 pip install pandas
+
+
+<img width="1055" height="522" alt="task3-output1" src="https://github.com/user-attachments/assets/071679ef-13b7-434e-b4f2-e0316bde515a" />
